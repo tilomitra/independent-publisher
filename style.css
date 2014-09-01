@@ -1468,7 +1468,10 @@ ul.taglist {
 
 body {
 	color: #000000;
-	font: 1.9em Georgia, "Times New Roman", Times, serif;
+	font: 1.9em "freight-text-pro",Georgia, "Cambria","Times New Roman",Times,serif;
+	letter-spacing: 0.01rem;
+	font-weight: 400;
+	font-style: normal;
 	line-height: 1.5;
 }
 
